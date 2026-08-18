@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 <
 Good Morning How are you? What are you doing  from Person 1 from person 2
 
+=======
+Good Morning, What are you doing From Person 2 
+Good Morning, How are you?, from Person 1
+Good Morning, What are you doing from person 2
+>>>>>>> b1aa5c1d14a50c1a0c6204f0048235e116bf1651
